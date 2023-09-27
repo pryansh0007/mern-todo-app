@@ -271,4 +271,4 @@ JWT token for authentication is stored in the local storage of the browser and a
 
 ### Author
 
-- [priyanshu and himanshi](https://github.com/pryansh0007)
+- [priyanshu](https://github.com/pryansh0007) and [himanshi](https://github.com/ifkrishi) 
